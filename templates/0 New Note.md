@@ -1,11 +1,10 @@
----
-Date: {{date:YYYYMMDD}}{{time:HHmm}}
-Tags: #
----
+{{date:YYYYMMDD}}{{time:HHmm}}
 #
 
 ---
 ### BIO
+**Tags:**
 
----
-### Links
+**References:**
+
+**Related:**
